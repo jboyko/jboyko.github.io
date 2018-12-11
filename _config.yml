@@ -25,7 +25,7 @@ github_username:  jboyko
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
-theme_color: orange
+theme_color: yellow
 plugins:
   - jekyll-feed
 

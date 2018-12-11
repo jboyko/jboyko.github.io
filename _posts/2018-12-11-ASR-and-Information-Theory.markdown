@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "ASR and Information Theory"
 date:   2018-12-11 13:43:50 -0600
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Many debates in evolutionary biology are centered around what an ancestral species looked like or how it lived. These debates are difficult to resolve because as lineages evolve through time they accumulate changes that distinguish them from their ancestor. Often, evolutionary biologists will use Markov models to emulate this process of continual change. Information loss in an evolutionary Markov model can be quantified by asking how much initial uncertainty has been reduced after the addition of information.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
