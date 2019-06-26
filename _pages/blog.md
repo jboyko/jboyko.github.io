@@ -3,4 +3,4 @@ layout: splash
 permalink: /blog/
 ---
 
-### kawaii
+### I need a nice camera first
