@@ -19,36 +19,9 @@ feature_row:
     alt: "This took place over 2.1 Billion Years ago. I'm sure we can trust it."
     title: "Reconstructing primary endosmybiosis"
     excerpt: "In what kind of environment did primary endosymbiosis take place and should ask that question?"
-  - image_path: /assets/images/phymagic.png
+  - image_path: /assets/images/phymagic.jpg
     title: "Mitigating information loss"
     excerpt: "How can we better utilize the information we have?"
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    
-#{% include feature_row id="feature_row2" type="left" %}
-
-#{% include feature_row id="feature_row3" type="right" %}
-
-#{% include feature_row id="feature_row4" type="center" %}    
 ---
 
 {% include feature_row id="intro" type="center" %}
