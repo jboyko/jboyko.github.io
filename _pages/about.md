@@ -19,7 +19,7 @@ feature_row2:
   - image_path: /assets/images/undergrad.jpg
     alt: "Organisms live outside computers"
     title: "I got my BSc at the University of Toronto in Human Biology and History"
-    excerpt: It took time to realize where my passions lay, but along the way I met wonderful people and learned about diverse subjects. Some of the most influential classes I took were the history of South East Asia, a history of the Beatles, a history of espionage, history and philosophy of science and technology, community ecology, life on other worlds, population genetics, and biostatistics. 
+    excerpt: It took time to realize where my passions lay, but along the way I met wonderful people and learned about diverse subjects in history, music, philosophy, and biology. I was very fortunate to be apart of three different labs during my time at U of T. My responsibilities ranged from dishwasher to research student, but at every stage I was exposed to interesting ecological and evolutionary ideas.
 feature_row3:
   - image_path: /assets/images/LukeLabPPine.jpg
     alt: "A group of herpers captivated by a mammal"

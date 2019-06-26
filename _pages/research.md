@@ -15,16 +15,10 @@ feature_row:
     alt: "Rates influence the rate at which information decays/"
     title: "Information decay and ancestral states"
     excerpt: "How does information flow and decay from the tips to the nodes during ancestral state reconstruction?"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/marinefresh.png
     alt: "This took place over 2.1 Billion Years ago. I'm sure we can trust it."
     title: "Reconstructing primary endosmybiosis"
     excerpt: "In what kind of environment did primary endosymbiosis take place and should ask that question?"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/phymagic.png
     title: "Mitigating information loss"
     excerpt: "How can we better utilize the information we have?"
@@ -33,9 +27,6 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
