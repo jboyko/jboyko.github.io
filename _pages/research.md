@@ -2,20 +2,19 @@
 title: "Research"
 layout: splash
 permalink: /research/
-date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/ThreeAmigos.png
+  overlay_image: /assets/images/meltingphy.png
   caption: "Markov Property"
 excerpt: "The past and the future are dependent only through the present."
 intro: 
-  - excerpt: "I'm primarily interested in phylogenetic comparative methods and studies. Broad macroevolutionary patterns represent some of the most compelling evidence for repeated patterns in evolution and I'm interested in identifying the limits of our methods so we can begin to work past them."
+  - excerpt: "I'm primarily interested in phylogenetic comparative methods and studies. Broad macroevolutionary patterns represent some of the most compelling evidence for repeated patterns in evolution, but are often hampered by weak links between micro- and macro-evolutionary processes. I'm interested in identifying the limits of our methods so we can begin to work past them."
 feature_row:
   - image_path: assets/images/meltingphy.png
     alt: "Rates influence the rate at which information decays/"
     title: "Information decay and ancestral states"
-    excerpt: "How does information flow and decay from the tips to the nodes during ancestral state reconstruction."
+    excerpt: "How does information flow and decay from the tips to the nodes during ancestral state reconstruction?"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -26,9 +25,9 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/extinctbois.png
-    title: "Extinction's role in information loss"
-    excerpt: "What kind of role does extinction play in information decay?"
+  - image_path: /assets/images/phymagic.png
+    title: "Mitigating information loss"
+    excerpt: "How can we better utilize the information we have?"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
