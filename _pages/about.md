@@ -7,24 +7,24 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/ThreeAmigos.png
   caption: "The middle one is 'J. Fels**egg**stein'"
-excerpt: "Going against the advice of mentors, colleagues, and friends, I tend to chickens."
+excerpt: "Going against the advice of mentors and friends, I tend to chickens."
 intro: 
   - excerpt: "To my parents and sister, thank you for all of your love and support."
 feature_row:
   - image_path: /assets/images/JB2.jpg
     alt: "JB Squared"
     title: "I was born and raised in Toronto, Canada"
-    excerpt: I used to obsessively watch the Simpsons and nature documentaries. On family vacations to Orlando, while my parents and sister lounged by the pool working on their tans, I ran around trying to catch brown anoles. They'd come home with the nicer tan, but I was eventually paid to catch anoles.
+    excerpt: There are two things I've always loved: the Simpsons and nature documentaries. The Simpsons taught me everything I know about pop culture. Nature documentaries taught me to say "crikey" with an Australian accent. I remember when I was younger, on family vacations to Orlando, my parents and sister would lounge by the pool while I ran around trying to catch brown anoles. I admit, they'd come home with the nicer tan, but I was eventually paid to catch anoles.
 feature_row2:
   - image_path: /assets/images/undergrad.jpg
     alt: "Organisms live outside computers"
     title: "I got my BSc at the University of Toronto in Human Biology and History"
-    excerpt: It took time to realize where my passions lay, but along the way I met wonderful people and learned about diverse subjects in history, music, philosophy, and biology. I was very fortunate to be apart of three different labs during my time at U of T. My responsibilities ranged from dishwasher to research student, but at every stage I was exposed to interesting ecological and evolutionary ideas.
+    excerpt: It took time to realize where my passions lay, but along the way I met wonderful people and learned about diverse subjects in history, music, philosophy, and biology. I was very fortunate to be a part of three different labs during my undergraduate time at U of T. My responsibilities ranged from dishwasher to research student, but at every stage I was exposed to interesting ecological and evolutionary ideas.
 feature_row3:
   - image_path: /assets/images/LukeLabPPine.jpg
     alt: "A group of herpers captivated by a mammal"
     title: "I got my MSc with Dr. Luke Mahler at the University of Toronto"
-    excerpt: My MSc was an invaluable learning experience, I will forever be grateful for this opportunity that gained me many intangible skills and ethics. And so, if I have any writing ability at all, Luke may take credit, but in doing so he accepts responsibility for my spelling ability as well. 
+    excerpt: My MSc was an invaluable learning experience and I will forever be grateful for this opportunity. I'm lucky to have had two fantastic mentors in Luke and Luke. I credit my writing ability to Luke, my coding ability to Luke, and my spelling to both. 
 feature_row4:
   - image_path: /assets/images/KawaiiLab.jpg
     alt: "Where am I now?"
