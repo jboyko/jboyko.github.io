@@ -1,5 +1,5 @@
 ---
-title: "Ecology Evolution Entropy"
+title: "Computational Evolutionary Biology"
 layout: splash
 permalink: /
 header:
