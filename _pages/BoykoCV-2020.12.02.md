@@ -1,14 +1,3 @@
-
----
-title: "Computational Macroevolution"
-layout: splash
-permalink: /cv/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/meltingphy.png
-  caption: ""
-excerpt: ""
 # James Dietrich Boyko - Curriculum Vitae
 **Address**: Department of Biological Sciences, University of Arkansas, Fayetteville, AR 72701-1201   
 **Web page**: [https://www.jamesboyko.com](https://www.jamesboyko.com)   
@@ -69,4 +58,3 @@ hiSSE - [Hidden State Dependent Speciation Extinction models](https://github.com
 - - - -
 **Email:** jboyko@uark.edu
 
----

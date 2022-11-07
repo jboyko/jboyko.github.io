@@ -2,6 +2,7 @@
 title: "Computational Macroevolution"
 layout: splash
 permalink: /
+author_profile: TRUE
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -19,9 +20,6 @@ feature_row:
     alt: "This took place over 2.1 Billion Years ago. I'm sure we can trust it."
     title: "Reconstructing primary endosmybiosis"
     excerpt: "In what kind of environment did primary endosymbiosis take place and should ask that question?"
-  - image_path: /assets/images/phymagic.png
-    title: "Mitigating information loss"
-    excerpt: "How can we better utilize the information we have?"
 ---
 
 {% include feature_row id="intro" type="center" %}
