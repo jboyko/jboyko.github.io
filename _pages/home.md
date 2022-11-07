@@ -1,13 +1,13 @@
 ---
-title: "Computational Evolutionary Biology"
+title: "Computational Macroevolution"
 layout: splash
 permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/meltingphy.png
-  caption: "Markov Property"
-excerpt: "The past and the future are dependent only through the present."
+  caption: ""
+excerpt: ""
 intro: 
   - excerpt: "I'm primarily interested in phylogenetic comparative methods and studies. Broad macroevolutionary patterns represent some of the most compelling evidence for repeated patterns in evolution, but are often hampered by weak links between micro- and macro-evolutionary processes. I'm interested in identifying the limits of our methods so we can begin to work past them."
 feature_row:

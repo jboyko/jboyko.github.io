@@ -1,0 +1,20 @@
+current directory: /Users/jamesboyko/jboyko.github.io/vendor/cache/ruby/2.5.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/jamesboyko/.rvm/rubies/ruby-2.5.3/bin/ruby -r ./siteconf20221107-62514-1h4yv9m.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jamesboyko/jboyko.github.io/vendor/cache/ruby/2.5.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/jamesboyko/jboyko.github.io/vendor/cache/ruby/2.5.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+    if (nparsed < len)
+        ~~~~~~~ ^ ~~~
+1 warning generated.
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/jamesboyko/jboyko.github.io/vendor/cache/ruby/2.5.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20221107-62514-votw8h

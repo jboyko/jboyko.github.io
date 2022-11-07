@@ -5,8 +5,8 @@ main:
    - title: "Research"
      url: /research/
    - title: "About"
-     url: /about/     
-   - title: "Blog"
-     url: /blog/
+     url: /about/
+   - title: "CV"
+     url: /cv/
   # - title: "Sitemap"
   #   url: /sitemap/
