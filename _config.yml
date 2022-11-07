@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : "James Boyko's Webpage"
 title_separator          : "-"
 name                     : "James Boyko"
-description              : "PhD Student at the University of Arkansas."
+description              : "Postdoc at the University of Tennessee, Knoxville."
 url                      : "https://jamesboyko.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jboyko/jboyko.github.io"
 teaser                   : #"/assets/images/smallchicken.jpg" #500x300
 logo                     : "/assets/images/smallchicken.jpg" #88x88
-masthead_title           : "Evolution Ecology Entropy" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Computational Macroevolution" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -108,9 +108,9 @@ analytics:
 author:
   name             : "James Boyko"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "I am a PhD student with Dr. Jeremy Beaulieu at the University of Arkansas."
-  location         : "Fayetteville, Arkansas"
-  email            : "jboyko@uark.edu"
+  bio              : "I am a Postdoc with Dr. Brian O'Meara at the University of Tennessee, Knoxville. I am currently a visiting researcher with Dr. Stephen Smith at the University of Michigan."
+  location         : "Ann Arbor, MI"
+  email            : "jboyko@umich.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -120,7 +120,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/PrtyPhy4AGadfly"
+      url: "https://twitter.com/jboyko21"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -136,7 +136,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/PrtyPhy4AGadfly"
+      url: "https://twitter.com/jboyko21"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
