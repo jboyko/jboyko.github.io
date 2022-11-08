@@ -15,7 +15,7 @@ author_profile: TRUE
 Research Project: *Assessing ascertainment bias in diversification rate estimates*
 Advisor: Dr. Brian O’Meara
 
-**Ph.D.**, University of Arkansas, Biological Sciences (expected 2017 - 2022)   
+**Ph.D.**, University of Arkansas, Biological Sciences (2017 - 2022)   
 Dissertation: *Hiding in plain sight: accounting for rate heterogeneity in trait evolution models.*  
 Advisor: Dr. Jeremy M. Beaulieu   
 
