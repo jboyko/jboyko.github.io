@@ -52,6 +52,9 @@ corHMM - [Correlated Hidden Markov Models for comparative biology](https://githu
 hiSSE - [Hidden State Dependent Speciation Extinction models](https://github.com/thej022214/hisse)   
 
 ## Honors, Awards, and Funding
+
+2022: $750 USD – Journal of Biogeography Innovation award
+
 2021: $1000 USD – Outstanding graduate student research award
 
 2019: $500 USD - American Society of Naturalists Travel Grant    
