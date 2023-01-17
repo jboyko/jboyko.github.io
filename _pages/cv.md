@@ -5,32 +5,38 @@ permalink: /cv/
 author_profile: TRUE
 ---
 # James Dietrich Boyko - Curriculum Vitae
-**Current Appointment**: Department of Ecology and Evolutionary Biology, University of Tennessee, Knoxville   
+**Current Appointment**: The Michigan Institute for Data Science, University of Michigan   
 **Web page**: [https://www.jamesboyko.com](https://www.jamesboyko.com)   
 **Github**: [jboyko](https://github.com/jboyko)   
-**Email**: [jboyko@utk.edu](jboyko@utk.edu)   
+**Email**: [jboyko@umich.edu](jboyko@umich.edu)   
 
 ## Academic Background
-**Post-doctoral research associate,** University of Tennessee, Knoxville (2022 - present)
+**Schmidt Futures AI in Science Post-doctoral fellow,** University of Michigan (January 2023 - Present)
+Research Project: *Deep-neural networks as a framework for understanding major evolutionary transitions in animal body form*
+Mentors: Dr. Dan Rabosky and Dr. Yuanfang Guan
+
+**Post-doctoral research associate,** University of Tennessee, Knoxville (October 2022 - January 2023)
 Research Project: *Assessing ascertainment bias in diversification rate estimates*
-Advisor: Dr. Brian O’Meara
+Mentor: Dr. Brian O’Meara
 
-**Ph.D.**, University of Arkansas, Biological Sciences (2017 - 2022)   
+**Ph.D.**, University of Arkansas, Biological Sciences (August 2017 - August 2022)   
 Dissertation: *Hiding in plain sight: accounting for rate heterogeneity in trait evolution models.*  
-Advisor: Dr. Jeremy M. Beaulieu   
+Mentor: Dr. Jeremy M. Beaulieu   
 
-**M.Sc.**, University of Toronto, Department of Ecology and Evolutionary Biology (2015 - 2017)   
+**M.Sc.**, University of Toronto, Department of Ecology and Evolutionary Biology (August 2015 - July 2017)   
 Thesis: *The Effect of Congeners on Trait Evolution and Sexual Dimorphism in Lesser Antillean Anolis Lizards*.    
-Advisor: Dr. Luke D. Mahler   
+Mentor: Dr. Luke D. Mahler   
 
-**B.A.**, University of Toronto, Biology and History (2010 - 2015)   
+**B.A.**, University of Toronto, Biology and History (September 2010 - June 2015)   
 Research Project: *Meta-analysis of phylogenetic community assembly*.    
-Advisor: Dr. Benjamin Gilbert   
+Mentor: Dr. Benjamin Gilbert   
 
 ## Publications
-**Boyko J.D.**, Beaulieu J.M, Hagen E.R., and Vasconcelos T.N.C. 2022. Long-term responses of life-history strategies to climatic variability in flowering plants.  New Phytologist (special issue). In review. 
+**Boyko, J. D.**, and B. C. O’Meara. 2023. dentist: Computing uncertainty by sampling points around maximum likelihood estimates. bioRxiv 2023.01.10.523430. Submitted.
 
-**Boyko, J.D.**, O’Meara, B.C., Beaulieu, J.M. 2022. Modeling the evolution of discrete and continuous character evolution using hidden Markov Ornstein-Uhlenbeck models. Evolution. Accepted.
+**Boyko, J.D.**, O’Meara, B.C., Beaulieu, J.M. 2023. A Novel Method for Jointly Modeling the Evolution of Discrete and Continuous Traits. Evolution. Accepted.
+
+**Boyko J.D.**, Beaulieu J.M, Hagen E.R., and Vasconcelos T.N.C. 2023. Long-term responses of life-history strategies to climatic variability in flowering plants.  New Phytologist (special issue). Accepted. 
 
 **Boyko, J.D.** and Beaulieu, J.M. 2022. Reducing the biases in false correlations between discrete characters. Systematic Biology. 
 
@@ -45,11 +51,15 @@ Beaulieu, J., O'Meara, B., Caetano, D. and **Boyko, J.D.**, 2019. Package ‘his
 Nakov, T., **Boyko, J.D.**, Alverson, A.J. and Beaulieu, J.M., 2017. Models with unequal transition rates favor marine origins of Cyanobacteria and photosynthetic eukaryotes. PNAS, 114(50), pp. E10606-E10607. 
 
 ## Software contributions:
-OUwie - [Estimates and compares rate differences of continuous character evolution under Brownian motion and a new set of Ornstein-Uhlenbeck (OU) models](https://github.com/thej022214/OUwie)   
 
 corHMM - [Correlated Hidden Markov Models for comparative biology](https://github.com/thej022214/corHMM)   
 
+dentist - [Computing uncertainty by sampling points around maximum likelihood estimates](https://github.com/bomeara/dentist)
+
 hiSSE - [Hidden State Dependent Speciation Extinction models](https://github.com/thej022214/hisse)   
+
+OUwie - [Estimates and compares rate differences of continuous character evolution under Brownian motion and a new set of Ornstein-Uhlenbeck (OU) models](https://github.com/thej022214/OUwie)   
+
 
 ## Honors, Awards, and Funding
 

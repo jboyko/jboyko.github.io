@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "James Boyko's Webpage"
 title_separator          : "-"
 name                     : "James Boyko"
-description              : "Postdoc at the University of Tennessee, Knoxville."
+description              : "Postdoc at the University of Michigan"
 url                      : "https://jamesboyko.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jboyko/jboyko.github.io"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "James Boyko"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "I am a Postdoc with Dr. Brian O'Meara at the University of Tennessee, Knoxville. I am currently a visiting researcher with Dr. Stephen Smith at the University of Michigan."
+  bio              : "I am a Postdoc working with Dr. Dan Rabosky and Dr. Yuanfang Guan at the University of Michigan."
   location         : "Ann Arbor, MI"
   email            : "jboyko@umich.edu"
   links:
