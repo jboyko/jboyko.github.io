@@ -11,13 +11,13 @@ author_profile: TRUE
 **Email**: [jboyko@umich.edu](jboyko@umich.edu)   
 
 ## Academic Background
-**Schmidt Futures AI in Science Post-doctoral fellow,** University of Michigan (January 2023 - Present)
-Research Project: *Deep-neural networks as a framework for understanding major evolutionary transitions in animal body form*
+**Schmidt Futures AI in Science Post-doctoral fellow,** University of Michigan (January 2023 - Present)  
+Research Project: *Deep-neural networks as a framework for understanding major evolutionary transitions in animal body form*  
 Mentors: Dr. Dan Rabosky and Dr. Yuanfang Guan
 
-**Post-doctoral research associate,** University of Tennessee, Knoxville (October 2022 - January 2023)
-Research Project: *Assessing ascertainment bias in diversification rate estimates*
-Mentor: Dr. Brian O’Meara
+**Post-doctoral research associate,** University of Tennessee, Knoxville (October 2022 - January 2023)  
+Research Project: *Assessing ascertainment bias in diversification rate estimates*  
+Mentor: Dr. Brian O’Meara  
 
 **Ph.D.**, University of Arkansas, Biological Sciences (August 2017 - August 2022)   
 Dissertation: *Hiding in plain sight: accounting for rate heterogeneity in trait evolution models.*  
