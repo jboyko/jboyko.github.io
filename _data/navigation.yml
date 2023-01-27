@@ -6,5 +6,8 @@ main:
      url: /research/
    - title: "CV"
      url: /cv/
+   - title: "Vignettes"
+     url: /vignettes/
+
   # - title: "Sitemap"
   #   url: /sitemap/
