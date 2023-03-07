@@ -32,21 +32,19 @@ Research Project: *Meta-analysis of phylogenetic community assembly*.
 Mentor: Dr. Benjamin Gilbert   
 
 ## Publications
-**Boyko, J. D.**, and B. C. O’Meara. 2023. dentist: Computing uncertainty by sampling points around maximum likelihood estimates. bioRxiv 2023.01.10.523430. Submitted.
+**Boyko, J. D.**, and B. C. O’Meara. 2023. dentist: Computing uncertainty by sampling points around maximum likelihood estimates. bioRxiv 2023.01.10.523430. In review.
 
 **Boyko, J.D.**, O’Meara, B.C., Beaulieu, J.M. 2023. A Novel Method for Jointly Modeling the Evolution of Discrete and Continuous Traits. Evolution. Accepted.
 
-**Boyko J.D.**, Beaulieu J.M, Hagen E.R., and Vasconcelos T.N.C. 2023. Long-term responses of life-history strategies to climatic variability in flowering plants.  New Phytologist (special issue). Accepted. 
+**Boyko J.D.**, Beaulieu J.M, Hagen E.R., and Vasconcelos T.N.C. 2023. Long-term responses of life-history strategies to climatic variability in flowering plants.  New Phytologist (special issue). In reivew. 
 
-**Boyko, J.D.** and Beaulieu, J.M. 2022. Reducing the biases in false correlations between discrete characters. Systematic Biology. 
+**Boyko, J.D.** and Beaulieu, J.M. 2022. Reducing the biases in false correlations between discrete characters. Systematic Biology. Accepted.
 
 Mortimer S.M., **Boyko J.D.**, Beaulieu J.M., Tank D.C. 2022. Synthesizing Existing Phylogenetic Data to Advance Phylogenetic Research in Orobanchaceae. Systematic Botany. 47, 533-544.
 
 Vasconcelos T.N.C., **Boyko J.D.**, Beaulieu J.M. 2021. Linking mode of seed dispersal and climatic niche evolution in flowering plants.  Journal of Biogeography.
 
 **Boyko, J. D.** & Beaulieu, J. M. 2021. Generalized hidden Markov models for phylogenetic comparative datasets. Methods Ecology and Evolution, 12, 468–478.  
-
-Beaulieu, J., O'Meara, B., Caetano, D. and **Boyko, J.D.**, 2019. Package ‘hisse’.
 
 Nakov, T., **Boyko, J.D.**, Alverson, A.J. and Beaulieu, J.M., 2017. Models with unequal transition rates favor marine origins of Cyanobacteria and photosynthetic eukaryotes. PNAS, 114(50), pp. E10606-E10607. 
 
@@ -62,6 +60,8 @@ OUwie - [Estimates and compares rate differences of continuous character evoluti
 
 
 ## Honors, Awards, and Funding
+
+2023: $250 USD - UMPDA Professional Development Award
 
 2022: $750 USD – Journal of Biogeography Innovation award
 
@@ -79,7 +79,7 @@ OUwie - [Estimates and compares rate differences of continuous character evoluti
 ## Presentations
 **Boyko, J.D.**, Beaulieu, J.M. (2022) Reducing the biases in false correlations between discrete characters. (Evolution: Poster presentation - International Conference). 
 
-**Boyko, J.D.**, Beaulieu, J.M. (2019) Quantifying the limits of our knowledge in phylogenetic comparative studies. (Quantitative Genetics Workshop - International Workshop). 
+**Boyko, J.D.**, Beaulieu, J.M. (2019) Quantifying the limits of our knowledge in phylogenetic comparative studies. (Quantitative Genetics Workshop: Oral presentation - International Workshop). 
 
 **Boyko, J.D.**, Nakov, T., Alverson, A.J. and Beaulieu, J.M. (2019) Quantifying the limits of our knowledge in phylogenetic comparative studies. (Botany: Oral presentation – International Conference)    
 
