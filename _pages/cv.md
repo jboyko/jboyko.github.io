@@ -92,6 +92,8 @@ OUwie - [Estimates and compares rate differences of continuous character evoluti
 **Boyko, J.D.**, Mahler, D. L. (2016) Testing for repeated character displacement in Anolis lizards. (OE3C: Oral presentation – Provincial Conference)   
 
 ## Volunteering and Outreach
+2023: Organizer of the AI in Science & Engineering Day
+
 2018 to 2021: Vice president of the University of Arkansas Wildlife Society 
 
 2018 to 2021: Member of the Association for Women in Science (AWIS)
