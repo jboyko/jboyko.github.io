@@ -77,6 +77,8 @@ OUwie - [Estimates and compares rate differences of continuous character evoluti
 
 
 ## Presentations
+**Boyko, J.D.**, O’Meara B.C., Beaulieu, J.M. (2023) A Novel Method for Jointly Modeling the Evolution of Discrete and Continuous Traits (Evolution: Oral presentation - International conference).
+
 **Boyko, J.D.**, Beaulieu, J.M. (2022) Reducing the biases in false correlations between discrete characters. (Evolution: Poster presentation - International Conference). 
 
 **Boyko, J.D.**, Beaulieu, J.M. (2019) Quantifying the limits of our knowledge in phylogenetic comparative studies. (Quantitative Genetics Workshop: Oral presentation - International Workshop). 
