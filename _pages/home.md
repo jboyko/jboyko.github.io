@@ -24,11 +24,11 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  # - #image_path: /assets/images/phymagic.jpg
-  #   title: "CV"
-  #   url: "/assets/pdf/BoykoCV.pdf"
-  #   btn_label: "Read More"
-  #   btn_class: "btn--primary"
+  - image_path: assets/images/FelseggRun.png
+    title: "CV"
+    url: "/assets/pdf/BoykoCV.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
