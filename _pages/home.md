@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/algonOpt3.jpg
 excerpt: "James Boyko, PhD"
 intro: 
-  - excerpt: "I'm broadly interested in phylogenetic comparative methods and ways that we can improve them. Find out more below!"
+  - excerpt: "I'm broadly interested in phylogenetic comparative methods and ways that we can improve them."
 feature_row:
   - image_path: assets/images/meltingphy.png
     alt: "Rates influence the rate at which information decays/"
@@ -18,17 +18,17 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   
-  - image_path: assets/images/meltingphy.png
+  - image_path: assets/images/phymagic.jpg
     title: "Vignettes"
     url: "/vignettes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/phymagic.jpg
-    title: "CV"
-    url: "/cv/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  # - #image_path: /assets/images/phymagic.jpg
+  #   title: "CV"
+  #   url: "/assets/pdf/BoykoCV.pdf"
+  #   btn_label: "Read More"
+  #   btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
