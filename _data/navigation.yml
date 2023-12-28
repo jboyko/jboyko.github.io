@@ -7,7 +7,7 @@ main:
    - title: "Vignettes"
      url: /vignettes/
    - title: "CV"
-     url: /assets/pdf/BoykoCV.pdf/
+     url: "/assets/pdf/BoykoCV.pdf"
 
   # - title: "Sitemap"
   #   url: /sitemap/
