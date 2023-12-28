@@ -10,19 +10,19 @@ header:
 intro: 
   - excerpt: "Some vignettes I've made to help users understand and use the tools I'm developing."
 feature_row:
-  - image_path: assets/images/meltingphy.png
+  - image_path: assets/images/corhmm.png
     title: "Using Hidden Markov models in general"
     url: "/vignettes/hmms/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   
-  - image_path: assets/images/meltingphy.png
+  - image_path: assets/images/maddfitz.png
     title: "Correcting for false correlations"
     url: "/vignettes/corr/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/phymagic.jpg
+  - image_path: /assets/images/houwie.png
     title: "Linking discrete and continuous characters"
     url: "/vignettes/houwie/"
     btn_label: "Read More"
