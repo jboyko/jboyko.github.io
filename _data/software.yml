@@ -1,0 +1,30 @@
+# Software record. Names, descriptions, and URLs follow the Software
+# Contributions section of cv.tex. Keep in sync when the CV changes.
+
+- name: corHMM
+  summary: "Correlated hidden Markov models for comparative biology. Fits generalized hidden-rates models to discrete characters, so several traits — including unobserved ones — can be modelled as one system instead of one trait at a time."
+  url: "https://github.com/thej022214/corHMM"
+
+- name: OUwie
+  summary: "Continuous character evolution under Ornstein–Uhlenbeck models, including the hOUwie approach for jointly modelling discrete and continuous traits."
+  url: "https://github.com/thej022214/OUwie"
+
+- name: dentist
+  summary: "Quantifies uncertainty by sampling points around a maximum likelihood estimate, rather than trusting the curvature of the likelihood surface at its peak."
+  url: "https://github.com/bomeara/dentist"
+
+- name: SegmentR
+  summary: "Deep-learning image segmentation with an R interface, built for biologists working with specimen and morphology images."
+  url: "https://github.com/jboyko/SegmentR"
+
+- name: mvh
+  summary: "Assembles and organizes virtual herbaria from openly available specimen images."
+  url: "https://github.com/tncvasconcelos/mvh"
+
+- name: phyloAMR
+  summary: "Phylogenetically-informed analysis of antibiotic resistance, applying comparative methods to how resistance emerges and spreads."
+  url: "https://github.com/kylegontjes/phyloAMR"
+
+- name: hiSSE
+  summary: "Hidden state dependent speciation and extinction models for testing trait-associated diversification."
+  url: "https://github.com/thej022214/hisse"

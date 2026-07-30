@@ -1,0 +1,12 @@
+<li class="record-item">
+  <span class="record-year">{{ include.p.year }}</span>
+  <div>
+    {%- if include.p.url %}
+    <a class="record-title" href="{{ include.p.url }}">{{ include.p.title }}</a>
+    {%- else %}
+    <span class="record-title">{{ include.p.title }}</span>
+    {%- endif %}
+    <p class="record-authors">{{ include.p.authors | replace: 'Boyko, J. D.', '<span class="self">Boyko, J. D.</span>' }}</p>
+    <p class="record-venue"><em>{{ include.p.venue }}</em>{% if include.p.detail %}, <span class="detail">{{ include.p.detail }}</span>{% endif %}.</p>
+  </div>
+</li>

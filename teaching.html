@@ -1,0 +1,40 @@
+---
+layout: default
+title: Teaching
+description: "Courses and workshops taught by James D. Boyko at Michigan, Arkansas, Toronto, and elsewhere."
+---
+
+<h1>Teaching</h1>
+
+<p class="lede">
+  Most of my teaching sits where biology meets computation: getting students to
+  the point where they can analyse their own data, and getting researchers to the
+  point where they can run comparative methods without treating them as a black box.
+</p>
+
+<h2 id="courses">Courses <span class="count">{{ site.data.teaching.courses | size }}</span></h2>
+<ul class="records">
+  {% for c in site.data.teaching.courses %}
+  <li class="record-item">
+    <span class="record-year">{{ c.term }}</span>
+    <div>
+      <span class="record-title">{{ c.title }}</span>
+      <p class="record-venue">{{ c.role }} <span class="sep">·</span> {{ c.institution }}</p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+
+<h2 id="workshops">Workshops &amp; short courses <span class="count">{{ site.data.teaching.workshops | size }}</span></h2>
+
+<ul class="records">
+  {% for w in site.data.teaching.workshops %}
+  <li class="record-item">
+    <span class="record-year">{{ w.year }}</span>
+    <div>
+      <span class="record-title">{{ w.title }}</span>
+      <p class="record-venue">Instructor <span class="sep">·</span> {{ w.institution }}</p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

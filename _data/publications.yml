@@ -1,0 +1,156 @@
+# GENERATED FILE — DO NOT EDIT BY HAND.
+#
+# Source of truth is the CV's refs.bib. Regenerate with:
+#     python3 tools/bib2publications.py
+#
+# 21 records.
+
+# -------- PUBLISHED & ACCEPTED
+
+- status: published
+  year: 2026
+  authors: "Boyko, J. D."
+  title: "Automatic Discovery of Optimal Discrete Character Models"
+  venue: "Systematic Biology"
+  detail: "syag018"
+  url: "https://doi.org/10.1093/sysbio/syag018"
+
+- status: published
+  year: 2026
+  authors: "Boyko, J. D. and Rabosky, D. L."
+  title: "The Geometry of Macroevolution: Phenotypic Evolution on Non-Euclidean Manifolds"
+  venue: "The American Naturalist"
+  url: "https://doi.org/10.1086/740145"
+
+- status: published
+  year: 2026
+  authors: "Boyko, J. D., Gontjes, K. J., Snitkin, E. S., and Smith, S. A."
+  title: "Resolving competing evolutionary histories in joint ancestral state reconstruction"
+  venue: "Proceedings of the National Academy of Sciences"
+  detail: "123(15), e2528064123"
+  url: "https://www.pnas.org/doi/abs/10.1073/pnas.2528064123"
+
+- status: published
+  year: 2025
+  authors: "Boyko, J. D."
+  title: "SegmentR: Deep Learning for Automated Segmentation with an R Interface"
+  venue: "Ecological Informatics"
+  detail: "103259"
+
+- status: published
+  year: 2025
+  authors: "Gontjes, K. J., Singh, A., Sansom, S. E., Boyko, J. D., Smith, S. A., Lautenbach, E., and Snitkin, E."
+  title: "Phylogenetic Context of Antibiotic Resistance Provides Insights into the Dynamics of Resistance Emergence and Spread"
+  venue: "The Journal of Infectious Diseases"
+  detail: "jiaf478"
+
+- status: published
+  year: 2025
+  authors: "Stepanova, N., Boyko, J. D., Lin, J., Davis Rabosky, A. R., and Rabosky, D. L."
+  title: "Punctuated Versus Gradual Shifts in the Multivariate Evolutionary Process: A Test With Paired Radiations of Scincid Lizards"
+  venue: "Systematic Biology"
+  detail: "74(3), 483–498"
+
+- status: published
+  year: 2025
+  authors: "Vasconcelos, T. and Boyko, J. D."
+  title: "mvh: An R Tool to Assemble and Organize Virtual Herbaria from Openly Available Specimen Images"
+  venue: "Applications in Plant Sciences"
+  detail: "13(2), e11631"
+
+- status: published
+  year: 2025
+  authors: "Vasconcelos, T., Weaver, W. N., Baumgartner, A., Bugnaski, Z., and Boyko, J. D."
+  title: "Automated Extraction of Leaf Mass per Area from Digitized Herbarium Specimens"
+  venue: "New Phytologist"
+
+- status: published
+  year: 2024
+  authors: "Boyko, J. D. and O'Meara, B. C."
+  title: "dentist: Quantifying Uncertainty by Sampling Points Around Maximum Likelihood Estimates"
+  venue: "Methods in Ecology and Evolution"
+  detail: "15(4), 628–638"
+
+- status: published
+  year: 2024
+  authors: "Hagen, E. R., Vasconcelos, T., Boyko, J. D., and Beaulieu, J. M."
+  title: "Investigating Historical Drivers of Latitudinal Gradients in Polyploid Plant Biogeography: A Multiclade Perspective"
+  venue: "American Journal of Botany"
+  detail: "e16356"
+
+- status: published
+  year: 2023
+  authors: "Boyko, J. D., Hagen, E. R., Beaulieu, J. M., and Vasconcelos, T."
+  title: "The Evolutionary Responses of Life-History Strategies to Climatic Variability in Flowering Plants"
+  venue: "New Phytologist"
+
+- status: published
+  year: 2023
+  authors: "Boyko, J. D., O'Meara, B. C., and Beaulieu, J. M."
+  title: "A Novel Method for Jointly Modeling the Evolution of Discrete and Continuous Traits"
+  venue: "Evolution"
+
+- status: published
+  year: 2022
+  authors: "Boyko, J. D. and Beaulieu, J. M."
+  title: "Reducing the Biases in False Correlations Between Discrete Characters"
+  venue: "Systematic Biology"
+
+- status: published
+  year: 2022
+  authors: "Mortimer, S. M. E., Boyko, J. D., Beaulieu, J. M., and Tank, D. C."
+  title: "Synthesizing Existing Phylogenetic Data to Advance Phylogenetic Research in Orobanchaceae"
+  venue: "Systematic Botany"
+  detail: "47, 533–544"
+
+- status: published
+  year: 2021
+  authors: "Boyko, J. D. and Beaulieu, J. M."
+  title: "Generalized Hidden Markov Models for Phylogenetic Comparative Datasets"
+  venue: "Methods in Ecology and Evolution"
+  detail: "12(3), 468–478"
+  url: "https://doi.org/10.1111/2041-210X.13534"
+
+- status: published
+  year: 2021
+  authors: "Vasconcelos, T., Boyko, J. D., and Beaulieu, J. M."
+  title: "Linking Mode of Seed Dispersal and Climatic Niche Evolution in Flowering Plants"
+  venue: "Journal of Biogeography"
+  detail: "50, 43–56"
+
+- status: published
+  year: 2017
+  authors: "Nakov, T., Boyko, J. D., Alverson, A. J., and Beaulieu, J. M."
+  title: "Models with Unequal Transition Rates Favor Marine Origins of Cyanobacteria and Photosynthetic Eukaryotes"
+  venue: "Proceedings of the National Academy of Sciences"
+  detail: "114, E10606–E10607"
+
+# -------- UNDER REVIEW
+
+- status: review
+  year: 2026
+  authors: "Gaem, P. H., Boyko, J. D., Mazine, F. F., Valdemarin, K. S., Smith, S. A., and Vasconcelos, T."
+  title: "Multiple Trans-Marine Dispersals and Niche Conservatism Underlie the Pantropical Distribution of Eugeniinae (Myrtaceae)"
+  venue: "Journal of Biogeography"
+
+- status: review
+  year: 2026
+  authors: "Johnston, I., Diaz-Uriarte, R., and Boyko, J. D."
+  title: "The Hypercubic Mk Model in Reduced State Space for the Coupled, Reversible Coevolution of Multiple Binary Characters"
+  venue: "Systematic Biology"
+
+- status: review
+  year: 2026
+  authors: "Rodrigues Ferreira de Melo, L., Marra, C. C. T., Boyko, J. D., Reginato, M., Morellato, L. P. C., Vasconcelos, T., and de Brito, V. L. G."
+  title: "Evolutionary Correlation of Floral and Fruit Traits Reflects Trade-offs Between Pollination and Seed Dispersal in Melastomataceae"
+  venue: "Perspectives in Plant Ecology, Evolution and Systematics"
+
+# -------- PREPRINTS
+
+- status: preprint
+  year: 2023
+  authors: "Boyko, J. D., Cohen, J., Fox, N., Han Veiga, M., Li, J. I.-H., Liu, J., Modenesi, B., Rauch, A. H., Reid, K. N., Tribedi, S., Visheratina, A., and Xie, X."
+  title: "An Interdisciplinary Outlook on Large Language Models for Scientific Research"
+  venue: "arXiv"
+  detail: "2311.04929 [cs.CL]"
+  url: "https://arxiv.org/abs/2311.04929"

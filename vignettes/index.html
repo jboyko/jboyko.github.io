@@ -1,0 +1,24 @@
+---
+layout: default
+title: Vignettes
+description: "Worked R walkthroughs for corHMM, hOUwie, and related phylogenetic comparative methods."
+---
+
+<h1>Vignettes</h1>
+
+<p class="lede">
+  Worked examples in R. Each one runs through a real analysis end to end, so you
+  can see what the method expects as input and what its output actually means.
+</p>
+
+<ul class="records">
+  {% for v in site.data.vignettes %}
+  <li class="record-item record-item--named">
+    <span class="record-name">{{ v.package }}</span>
+    <div>
+      <a class="record-title" href="{{ v.url | relative_url }}">{{ v.title }}</a>
+      <p class="record-body">{{ v.summary }}</p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

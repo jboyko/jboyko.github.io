@@ -1,0 +1,33 @@
+# Pre-rendered vignette walkthroughs living in /vignettes/.
+#
+# `url` is the canonical path, NOT the filename. Three of these files carry
+# their own `permalink:` front matter (/vignettes/hmms/, /vignettes/corr/,
+# /vignettes/houwie/) — those are the published URLs and must not change.
+# The rest are static files served at their filename.
+#
+# Add a vignette to that folder and an entry here; counts update themselves.
+
+- title: "Getting started with corHMM"
+  url: "/vignettes/hmms/"
+  summary: "Fitting generalized hidden Markov models to discrete characters — the general-purpose starting point."
+  package: corHMM
+
+- title: "Correlated and independent models"
+  url: "/vignettes/corr/"
+  summary: "Testing whether two discrete traits evolve together or apart, and why the distinction is easy to get wrong."
+  package: corHMM
+
+- title: "Automatic model selection with corHMM dredge"
+  url: "/vignettes/corHMMDredge.html"
+  summary: "Searching the space of discrete character models rather than hand-picking one."
+  package: corHMM
+
+- title: "Uncertainty in joint ancestral state reconstruction"
+  url: "/vignettes/joint_unc_vignette.html"
+  summary: "Generating and reading uncertainty around joint ancestral state reconstructions."
+  package: corHMM
+
+- title: "hOUwie starter guide"
+  url: "/vignettes/houwie/"
+  summary: "Jointly modelling a discrete character and a continuous one in a single framework."
+  package: OUwie

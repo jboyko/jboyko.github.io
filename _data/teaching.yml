@@ -1,0 +1,53 @@
+# Teaching record, following cv.pdf.
+
+courses:
+  - term: "Fall 2025"
+    role: Instructor
+    title: "BIO 202: Biological Data Analysis and Programming"
+    institution: "University of Michigan"
+
+  - term: "2017–2022"
+    role: "Graduate Teaching Assistant"
+    title: "Evolutionary Biology"
+    institution: "University of Arkansas"
+
+  - term: "2016–2017"
+    role: "Teaching Assistant"
+    title: "Macroevolution"
+    institution: "University of Toronto"
+
+  - term: "2016–2017"
+    role: "Teaching Assistant"
+    title: "Biostatistics"
+    institution: "University of Toronto"
+
+  - term: "2015–2016"
+    role: "Teaching Assistant"
+    title: "From Genomes to Ecosystems in a Changing World"
+    institution: "University of Toronto"
+
+  - term: "2015–2016"
+    role: "Teaching Assistant"
+    title: "Adaptation and Biodiversity"
+    institution: "University of Toronto"
+
+workshops:
+  - year: 2025
+    title: "AI for Scientists and Engineers Summer Academy: Foundation Models"
+    institution: "University of Michigan"
+
+  - year: 2024
+    title: "Workshop on Harmonizing Accumulation Modeling (WHAM)"
+    institution: "University of Bergen"
+
+  - year: 2024
+    title: "Gans Foundation Student Workshop: Functional Morphology"
+    institution: "University of Michigan"
+
+  - year: 2024
+    title: "Phylogenetic Comparative Methods, Statistics Workshop"
+    institution: "University of Michigan"
+
+  - year: 2024
+    title: "Phylogenetic Comparative Methods in R"
+    institution: "Boston University"

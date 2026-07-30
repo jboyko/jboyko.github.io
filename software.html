@@ -1,0 +1,25 @@
+---
+layout: default
+title: Software
+description: "Open-source R packages by James D. Boyko for phylogenetic comparative methods and deep learning."
+---
+
+<h1>Software</h1>
+
+<p class="lede">
+  The methods are only useful if people can run them. Each package below is open
+  source and installable from its repository; the
+  <a href="{{ '/vignettes/' | relative_url }}">vignettes</a> are worked examples of
+  what several of them do.
+</p>
+
+<ul class="records">
+  {% for s in site.data.software %}
+  <li class="record-item record-item--named">
+    <span class="record-name">
+      {%- if s.url %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif -%}
+    </span>
+    <p class="record-body">{{ s.summary }}</p>
+  </li>
+  {% endfor %}
+</ul>

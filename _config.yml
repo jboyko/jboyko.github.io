@@ -1,5 +1,46 @@
 title: "James Boyko"
-description: "Assistant Professor in Ecology and Evolutionary Biology at University of Michigan."
+description: "Comparative biologist in Ecology and Evolutionary Biology at the University of Michigan. Phylogenetic comparative methods and deep learning for phenotypic evolution."
+url: "https://jamesboyko.com"
 logo: /assets/images/lgo.png
-theme: jekyll-theme-minimal
 
+author: "James D. Boyko"
+email: jboyko@umich.edu
+github_username: jboyko
+# `role` is true and stays on the CV, but is deliberately not shown in the
+# masthead — it reads as a bigger operation than this currently is.
+role: "Assistant Professor"
+department: "Ecology & Evolutionary Biology"
+institution: "University of Michigan"
+fellowship: "Michigan Society of Fellows"
+
+# Navigation is generated from this list. To add a future page (People, Join,
+# News), add an entry here and create the matching page. No template edits.
+nav:
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Software
+    url: /software/
+  - title: Teaching
+    url: /teaching/
+  - title: Vignettes
+    url: /vignettes/
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - tools
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+  - PRODUCT.md
+  - DESIGN.md
+  - README.md
+  - .impeccable
+  - .claude
+  - .codex

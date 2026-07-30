@@ -1,0 +1,57 @@
+---
+layout: default
+title: Index
+description: "James Boyko builds phylogenetic comparative methods and applies deep learning to phenotypic evolution at the University of Michigan."
+---
+
+{% assign published = site.data.publications | where: "status", "published" %}
+{% assign in_review = site.data.publications | where: "status", "review" %}
+{% assign courses = site.data.teaching.courses %}
+{% assign workshops = site.data.teaching.workshops %}
+
+<p class="lede">
+  I am a comparative biologist at the University of Michigan. I build statistical
+  methods for studying how traits evolve across the tree of life, and I use deep
+  learning to extend those methods to data that classical approaches cannot
+  handle — shapes, images, and other high-dimensional phenotypes.
+</p>
+
+<nav class="holdings" aria-label="Contents">
+
+  <a class="holding" href="{{ '/research/' | relative_url }}">
+    <span class="holding-name">Research</span>
+    <p class="holding-desc">Trait dependence, automated phenotyping, and the geometry of phenotypic change.</p>
+    <span class="holding-count">3 themes</span>
+  </a>
+
+  <a class="holding" href="{{ '/publications/' | relative_url }}">
+    <span class="holding-name">Publications</span>
+    <p class="holding-desc">Peer-reviewed articles, manuscripts under review, and preprints.</p>
+    <span class="holding-count">{{ published | size }} published · {{ in_review | size }} in review</span>
+  </a>
+
+  <a class="holding" href="{{ '/software/' | relative_url }}">
+    <span class="holding-name">Software</span>
+    <p class="holding-desc">R packages implementing the methods, all open source.</p>
+    <span class="holding-count">{{ site.data.software | size }} packages</span>
+  </a>
+
+  <a class="holding" href="{{ '/teaching/' | relative_url }}">
+    <span class="holding-name">Teaching</span>
+    <p class="holding-desc">Courses at Michigan and earlier, plus workshops on comparative methods and AI.</p>
+    <span class="holding-count">{{ courses | size }} courses · {{ workshops | size }} workshops</span>
+  </a>
+
+  <a class="holding" href="{{ '/vignettes/' | relative_url }}">
+    <span class="holding-name">Vignettes</span>
+    <p class="holding-desc">Worked walkthroughs in R for the methods above.</p>
+    <span class="holding-count">{{ site.data.vignettes | size }} guides</span>
+  </a>
+
+  <a class="holding" href="{{ '/cv.pdf' | relative_url }}">
+    <span class="holding-name">Curriculum Vitae</span>
+    <p class="holding-desc">Full record, including talks, awards, and service.</p>
+    <span class="holding-count">PDF</span>
+  </a>
+
+</nav>

@@ -1,0 +1,32 @@
+---
+layout: default
+title: Publications
+description: "Peer-reviewed publications, manuscripts under review, and preprints by James D. Boyko."
+---
+
+{% assign published = site.data.publications | where: "status", "published" %}
+{% assign in_review = site.data.publications | where: "status", "review" %}
+{% assign preprints = site.data.publications | where: "status", "preprint" %}
+
+<h1>Publications</h1>
+
+<p class="lede">
+  {{ published | size }} peer-reviewed articles, {{ in_review | size }} manuscripts under review,
+  and {{ preprints | size }} preprint. Titles link to the publisher where a DOI exists.
+  The <a href="{{ '/cv.pdf' | relative_url }}">CV</a> carries the complete record.
+</p>
+
+<h2 id="published">Published &amp; accepted <span class="count">{{ published | size }}</span></h2>
+<ol class="records">
+  {% for p in published %}{% include publication.html p=p %}{% endfor %}
+</ol>
+
+<h2 id="review">Under review <span class="count">{{ in_review | size }}</span></h2>
+<ol class="records">
+  {% for p in in_review %}{% include publication.html p=p %}{% endfor %}
+</ol>
+
+<h2 id="preprints">Preprints <span class="count">{{ preprints | size }}</span></h2>
+<ol class="records">
+  {% for p in preprints %}{% include publication.html p=p %}{% endfor %}
+</ol>

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title and page.url != "/" %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }} · {{ site.department }}, {{ site.institution }}{% endif %}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ page.description | default: site.description }}">
+<meta property="og:type" content="website">
+<link rel="icon" href="{{ '/assets/images/lgo.png' | relative_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Archivo:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+<!--
+  THESIS: A working collection index. Every paper, package, course and vignette is
+  an accessioned record in a ruled index. Refuses the faculty-page default: no
+  headshot rail, no "Welcome, I am" opener, no card grid.
+  OWN-WORLD: Cool paper ground, slate ink, one cabinet-green accent on tabs and
+  active state. Hairline rules, never boxes or shadows. Literata for reading,
+  Archivo for labels and tabular figures. Records, not cards.
+  STORY: A method user finds the package or vignette in one screen; a committee
+  reads the size of the record without scrolling; a prospective student reaches
+  research prose in plain language.
+  FIRST VIEWPORT: Name as index heading, one metadata line, then the holdings
+  themselves as ruled rows with live counts.
+  FORM: Collection Index — candidate 6 of the ordered grounded list; seed key 04639012.
+  FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, and DESIGN.md
+-->
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="masthead-id">
+      {%- comment -%}
+        On the index the name is the page's heading, so it carries the h1.
+        Elsewhere the page's own <h1> owns that role and this is just a link home.
+      {%- endcomment -%}
+      {% if page.url == "/" %}
+      <h1><a class="masthead-name" href="{{ '/' | relative_url }}">{{ site.author }}</a></h1>
+      {% else %}
+      <a class="masthead-name" href="{{ '/' | relative_url }}">{{ site.author }}</a>
+      {% endif %}
+      <p class="masthead-meta">{{ site.department }}<br>{{ site.institution }}</p>
+    </div>
+    <nav class="tabs" aria-label="Sections">
+      <ul>
+        {% for item in site.nav %}
+        {% assign here = page.url | remove_first: 'index.html' %}
+        <li><a href="{{ item.url | relative_url }}"{% if here == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+        {% endfor %}
+        <li><a href="{{ '/cv.pdf' | relative_url }}">CV</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="main" class="wrap">
+{{ content }}
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <dl class="record">
+      <div><dt>Email</dt><dd><a href="mailto:{{ site.email }}">{{ site.email }}</a></dd></div>
+      <div><dt>GitHub</dt><dd><a href="https://github.com/{{ site.github_username }}">{{ site.github_username }}</a></dd></div>
+      <div><dt>Office</dt><dd>Biological Sciences Building 5034<br>1105 N University Ave, Ann Arbor, MI 48109</dd></div>
+    </dl>
+    <p class="colophon">{{ site.fellowship }}. Last built {{ site.time | date: "%B %Y" }}.</p>
+  </div>
+</footer>
+</body>
+</html>
